@@ -1,0 +1,32 @@
+{
+  "name": "roshan_portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio website consisting of list of projects completed over time",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poudelroshan/portfolio.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "portfolio",
+    "roshan",
+    "software",
+    "engineering",
+    "internship"
+  ],
+  "author": "Roshan Poudel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poudelroshan/portfolio/issues"
+  },
+  "homepage": "https://github.com/poudelroshan/portfolio#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
